@@ -6,7 +6,7 @@ app to plan your day where you can add activities into certain timeslots and whe
 It was a grind for me but it has helped me regain some confidence in coding.
 
 Deployed Site:
- https://christophermowrey.github.io/work-day-scheduler/
+https://christophermowrey.github.io/work-day-scheduler/
 
 ![screenshot](./assets/images/screenshot.png)
 
